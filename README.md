@@ -1,3 +1,3 @@
 # bootstrappractise
 created a site using bootstrap 
-https://chapkepratham007.github.io/bootstrappractise/
+https://chapkepratham007.github.io/bootstrap_website/
